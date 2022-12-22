@@ -1,0 +1,8 @@
+node_modules
+.env
+deploy.sh
+/build
+/node_modules
+.dockerimage
+fly.toml
+.dockerignore
