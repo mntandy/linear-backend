@@ -6,4 +6,4 @@ deploy.sh
 .dockerimage
 fly.toml
 .dockerignore
-Dockerfile
+/Dockerfile
