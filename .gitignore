@@ -7,3 +7,5 @@ deploy.sh
 fly.toml
 .dockerignore
 /Dockerfile
+.githubtoken
+Dockerfile
